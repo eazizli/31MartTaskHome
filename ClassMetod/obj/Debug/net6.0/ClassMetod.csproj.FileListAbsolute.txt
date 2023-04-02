@@ -1,0 +1,15 @@
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\bin\Debug\net6.0\ClassMetod.exe
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\bin\Debug\net6.0\ClassMetod.deps.json
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\bin\Debug\net6.0\ClassMetod.runtimeconfig.json
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\bin\Debug\net6.0\ClassMetod.dll
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\bin\Debug\net6.0\ClassMetod.pdb
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.csproj.AssemblyReference.cache
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.AssemblyInfoInputs.cache
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.AssemblyInfo.cs
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.csproj.CoreCompileInputs.cache
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.dll
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\refint\ClassMetod.dll
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.pdb
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ClassMetod.genruntimeconfig.cache
+C:\Users\victu\Downloads\ClassMetod\ClassMetod\obj\Debug\net6.0\ref\ClassMetod.dll
